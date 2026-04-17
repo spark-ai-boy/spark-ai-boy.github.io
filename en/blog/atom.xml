@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://spark-ai-boy.github.io/en/blog"/>
     <subtitle>SparkNoteAI Blog</subtitle>
-    <icon>https://spark-ai-boy.github.io/en/img/favicon.ico</icon>
+    <icon>https://spark-ai-boy.github.io/en/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://spark-ai-boy.github.io/en/blog/welcome</id>
