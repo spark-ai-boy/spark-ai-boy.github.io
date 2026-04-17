@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.快速开始": {
+    "message": "Getting Started",
+    "description": "The label for category '快速开始' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.功能指南": {
+    "message": "Features",
+    "description": "The label for category '功能指南' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.配置": {
+    "message": "Configuration",
+    "description": "The label for category '配置' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.部署": {
+    "message": "Deployment",
+    "description": "The label for category '部署' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.API 参考": {
+    "message": "API Reference",
+    "description": "The label for category 'API 参考' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.贡献指南": {
+    "message": "Contributing",
+    "description": "The label for category '贡献指南' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.doc.概览": {
+    "message": "Overview",
+    "description": "The label for the doc item '概览' in sidebar 'docsSidebar', linking to the doc intro"
+  }
+}
