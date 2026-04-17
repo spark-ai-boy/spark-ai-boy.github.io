@@ -24,7 +24,8 @@ npm run build
 ## 部署
 
 ```bash
-GIT_USER=spark-ai-boy npm run deploy
+gh auth login
+GIT_USER=spark-ai-boy GH_TOKEN=$(gh auth token) npm run deploy
 ```
 
 推送到 `gh-pages` 分支，自动部署到 https://spark-ai-boy.github.io

@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'SparkNoteAI',
   tagline: '知语拾光 — 让知识如光般照亮你的世界',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   future: {
     v4: true,
@@ -66,7 +66,7 @@ const config: Config = {
       title: 'SparkNoteAI',
       logo: {
         alt: 'SparkNoteAI Logo',
-        src: 'img/logo.svg',
+        src: 'img/icon.png',
       },
       items: [
         {
